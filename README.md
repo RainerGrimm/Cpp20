@@ -1,6 +1,9 @@
 # Cpp20
 
-![coverCippi](https://user-images.githubusercontent.com/18601589/116213798-5fb24500-a746-11eb-9114-74b02f7a47eb.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/18601589/116213798-5fb24500-a746-11eb-9114-74b02f7a47eb.png" alt="Cover" width="300"/>
+</p>
+
 
 This is the code repository for my book [C++20 - Get the Details](https://leanpub.com/c20). 
 
