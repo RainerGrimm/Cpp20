@@ -13,14 +13,11 @@ Use the following link [C++20 - Get the Details](https://leanpub.com/c20) and do
 
 The book is also available in printed form. Here are a few links:
 
-* [US](https://www.amazon.com/dp/B09328NKXK)
-* [UK](https://www.amazon.co.uk/dp/B09328NKXK)
-* [DE](https://www.amazon.de/dp/B09328NKXK)
-* [FR](https://www.amazon.fr/dp/B09328NKXK)
-* [ES](https://www.amazon.es/dp/B09328NKXK)
-* [IT](https://www.amazon.it/dp/B09328NKXK)
-* [JP](https://www.amazon.co.jp/dp/B09328NKXK)
-* [CA](https://www.amazon.ca/dp/B09328NKXK)
+[US](https://www.amazon.com/dp/B09328NKXK), [UK](https://www.amazon.co.uk/dp/B09328NKXK), [DE](https://www.amazon.de/dp/B09328NKXK), [FR](https://www.amazon.fr/dp/B09328NKXK), [ES](https://www.amazon.es/dp/B09328NKXK), [IT](https://www.amazon.it/dp/B09328NKXK), [JP](https://www.amazon.co.jp/dp/B09328NKXK), [CA](https://www.amazon.ca/dp/B09328NKXK)
+
+### Translations
+
+The book will be printed in Korean. I assume that it also will be available in German, and Russian. 
 
 ## A Few Details
 
