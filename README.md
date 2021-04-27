@@ -1,4 +1,7 @@
 # Cpp20
+
+![coverCippi](https://user-images.githubusercontent.com/18601589/116213798-5fb24500-a746-11eb-9114-74b02f7a47eb.png)
+
 This is the code repository for my book [C++20 - Get the Details](https://leanpub.com/c20). 
 
 It has more than 200 running examples. The names of the directories reflect the names of the chapters in the book. I put the name of the source file in the title of each source code example.
