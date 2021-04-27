@@ -1,5 +1,28 @@
 # Cpp20
-This is the code repository for my book "C++20 - Get the Details"
+This is the code repository for my book [C++20 - Get the Details](https://leanpub.com/c20). 
+
+It has more than 200 running examples. The names of the directories reflect the names of the chapters in the book. I put the name of the source file in the title of each source code example.
+
+## How To Get It?
+
+### LeanPub 
+
+Use the following link [C++20 - Get the Details](https://leanpub.com/c20) and download it as a pdf, kindle, epub book. You can also read it online.
+
+### Amazon
+
+The book is also available in printed form. Here are a few links:
+
+* [US](https://www.amazon.com/dp/B09328NKXK)
+* [UK](https://www.amazon.co.uk/dp/B09328NKXK)
+* [DE](https://www.amazon.de/dp/B09328NKXK)
+* [FR](https://www.amazon.fr/dp/B09328NKXK)
+* [ES](https://www.amazon.es/dp/B09328NKXK)
+* [IT](https://www.amazon.it/dp/B09328NKXK)
+* [JP](https://www.amazon.co.jp/dp/B09328NKXK)
+* [CA](https://www.amazon.ca/dp/B09328NKXK)
+
+## A Few Details
 
 C++20 is the next big C++ standard after C++11. As C++11 did it, C++20 changes the way we program modern C++. This change is, in particular, due to the big four of C++20: ranges, coroutines, concepts, and modules. 
 
@@ -10,3 +33,9 @@ C++20 is the next big C++ standard after C++11. As C++11 did it, C++20 changes t
 * Thanks to coroutines asynchronous programming in C++ becomes mainstream. Coroutines are the base for cooperative tasks, event loops, infinite data streams, or pipelines.
     
 * Modules overcome the restrictions of header files. They promise a lot. For example, the separation of header and source files becomes as obsolete as the preprocessor. In the end, we have faster built time and an easier way to build packages.
+
+If you want to know more about my book, please visit [C++20 - Get the Details](https://leanpub.com/c20).
+
+
+
+
